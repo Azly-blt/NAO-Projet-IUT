@@ -3,7 +3,7 @@
 
 set -euo pipefail
 
-sudo apt install git cmake build-essential python3 python3-pip -y
+#sudo apt install git cmake build-essential python3 python3-pip -y
 git clone https://github.com/aldebaran/libqi.git
 git clone https://github.com/aldebaran/libqi-python.git
 pip install conan
